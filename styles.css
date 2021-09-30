@@ -1,0 +1,11 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+.game-button {
+  border: 2px solid lightblue;
+  border-radius: 5px;
+  padding: 20px;
+  width: 100px;
+}
